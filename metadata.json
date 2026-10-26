@@ -1,0 +1,6 @@
+{
+  "name": "Gujarati Mitra AI – ગુજરાતી મિત્ર",
+  "description": "Smart Gujarati proofreading, correction, rewriting, and text generation powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
